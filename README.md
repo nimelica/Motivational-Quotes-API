@@ -1,2 +1,2 @@
 # Motivational-Quotes-API
-A simple mock motivational quotes REST API
+A simple motivational quotes [API](https://motivational-quotes-api.herokuapp.com/)
