@@ -1,4 +1,4 @@
-# Daily Motivation Dose for Emine Pelit<3
+# Daily Motivation Dose <3
 ## A program to get a random daily dose of motivational/inspirational quotes
 
 ### MOCK API
