@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>My MOTIVATION COACH</title>
+        <link rel="stylesheet" href="{{url_for('static', filename='css/main.css')}}">
+    </head>
+    <body>
+       <div>
+        <marquee><h3 style="font-family:monospace,OCR A Std;">Happy New Age Emine</h1></marquee>
+        <img src="https://www.digitalscrapbook.com/sites/default/files/styles/456_scale/public/s3fs-user-content/graphic-image/user-21935/node-108169/happy-birthday-embellishments-new-age-me-label-graphic-element-embellishment-word-paper-orange.png">
+       </div>
+        <img src="https://www.autoblog.com/img/logos/makes/think.png" alt="Think">
+        <br>
+        <form action="/get_quote" method="post">
+               <p><h2 style="color:powderblue;">{{ quote }}</h2></p>
+            <br>
+              <input type ="submit" value="FOR YOU" id="enter_button">
+        </form>
+
+    </body>
+</html>
+
